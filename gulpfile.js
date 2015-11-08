@@ -5,12 +5,12 @@ var gulp=require('gulp'),
     BUILD_JSON=require('./build.json'),
     BUILD_NAME='mutation.summary.js',
     MIN_NAME='mutation.summary.min.js',
-    REPO_NAME='mutation sumary',
+    REPO_NAME='mutation summary',
     DIST='./dist';
 
 
 gulp.task('default',function(){
-    console.log(REPO_NAME + ' ..."tasks: gulp build|gulp minify"');
+    console.log(REPO_NAME + ' ..."tasks: gulp build|minify"');
 });
 
 gulp.task('build',function(){
