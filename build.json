@@ -1,0 +1,4 @@
+[
+  "./node_modules/mutation-summary/src/mutation-summary.js",
+  "./src/jquery.mutation-summary.js"
+]

@@ -5,6 +5,10 @@ A jQuery wrapper/plugin for mutation-summary, the DOM mutation-observers wrapper
 
 The Mutation Summary library aggregates multiple DOM mutations to a neat changeset, optionally [filtered by CSS-style selectors](http://code.google.com/p/mutation-summary/wiki/APIReference#The_element_Query). Have a look at [this fun and informative 8 minute screen cast](http://code.google.com/p/mutation-summary/) by [Rafael Z Weinstein](http://code.google.com/u/rafaelw@chromium.org/), the creator of mutation-summary.
 
+## Forked Version
+
+This forked version adds a package.json file, index.js file, the google mutation-summary.js dependency and gulp build tasks for distribution via the node package manager(npm).
+
 ## Get it
 
 To include dependencies, make sure to get the submodules too.
