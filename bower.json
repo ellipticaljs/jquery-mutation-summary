@@ -1,5 +1,6 @@
 {
   "name": "jquery-mutation-summary",
+  "version": "1.0.0",
   "description": "A jQuery wrapper/plugin for mutation-summary",
   "main": "dist/mutation.summary.js",
   "authors": [
