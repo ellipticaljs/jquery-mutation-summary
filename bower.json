@@ -1,0 +1,23 @@
+{
+  "name": "jquery-mutation-summary",
+  "description": "A jQuery wrapper/plugin for mutation-summary",
+  "main": "dist/mutation.summary.js",
+  "authors": [
+    "Joel Purra",
+    "S. Francis"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "jquery",
+    "mutation-summary"
+  ],
+  "homepage": "https://github.com/tachyon1337/jquery-mutation-summary",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
