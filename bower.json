@@ -14,7 +14,6 @@
   "homepage": "https://github.com/tachyon1337/jquery-mutation-summary",
   "moduleType": [],
   "ignore": [
-    "**/.*",
     "node_modules",
     "bower_components",
     "test",
