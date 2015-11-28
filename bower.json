@@ -1,6 +1,6 @@
 {
   "name": "jquery-mutation-summary",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A jQuery wrapper/plugin for mutation-summary",
   "main": "dist/mutation.summary.js",
   "authors": [
@@ -12,7 +12,7 @@
     "jquery",
     "mutation-summary"
   ],
-  "homepage": "https://github.com/tachyon1337/jquery-mutation-summary",
+  "homepage": "https://github.com/ellipticaljs/jquery-mutation-summary",
   "moduleType": [],
   "ignore": [
     "node_modules",
