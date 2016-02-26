@@ -1,6 +1,6 @@
 {
   "name": "jquery-mutation-summary",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A jQuery wrapper/plugin for mutation-summary",
   "author": "Joel Purra",
   "license": "MIT",
@@ -9,6 +9,7 @@
     "url": "https://github.com/ellipticaljs/jquery-mutation-summary.git"
   },
   "dependencies": {
+    "jquery-extensions": "git+https://github.com/ellipticaljs/jquery-extensions.git",
     "mutation-summary": "git+https://github.com/rafaelw/mutation-summary.git"
   },
   "devDependencies": {

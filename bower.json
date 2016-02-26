@@ -1,6 +1,6 @@
 {
   "name": "jquery-mutation-summary",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A jQuery wrapper/plugin for mutation-summary",
   "main": "dist/mutation.summary.js",
   "authors": [
@@ -38,6 +38,6 @@
     "demos"
   ],
   "dependencies": {
-    "elliptical-jquery": ">=3.0.0"
+    "jquery-extensions": "~1.0.7"
   }
 }
